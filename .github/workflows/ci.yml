@@ -31,7 +31,7 @@ jobs:
       - name: Fetch latest Weather
         on:
           WEATHER_API_KEY: ${{secrests.WEATHER_API_KEY}} 
-          WEATHER_CITY: ${{secrests.CITY}}
+          CITY: ${{secrests.CITY}}
         run: node fetchWeather.js
 
       - name: Commit weather data if changed
