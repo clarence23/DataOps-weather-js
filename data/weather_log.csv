@@ -1,0 +1,12 @@
+timestamp,city,temperature,description
+2025-12-08T13:01:36.106Z,Ararangua,28.9,scattered clouds
+2025-12-08T14:08:51.920Z,Ararangua,29.41,few clouds
+2025-12-08T14:09:09.088Z,Ararangua,29.41,few clouds
+2025-12-08T15:58:21.849Z,Ararangua,29.35,scattered clouds
+2025-12-09T10:03:44.421Z,London,12.56,broken clouds
+2025-12-09T10:06:03.104Z,Paris,11.82,clear sky
+2025-12-09T10:07:10.500Z,Dubai,30.96,clear sky
+2025-12-09T10:12:26.092Z,Dubai,30.96,clear sky
+2025-12-09T10:23:29.817Z,Atlanta,-0.59,mist
+2025-12-09T10:23:57.984Z,Los Angeles,17.92,clear sky
+2025-12-09T10:24:17.064Z,Lagos,31.85,few clouds
