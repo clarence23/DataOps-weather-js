@@ -1,45 +1,46 @@
 {
   "coord": {
-    "lon": 3.75,
-    "lat": 6.5833
+    "lon": -0.1257,
+    "lat": 51.5085
   },
   "weather": [
     {
-      "id": 801,
+      "id": 803,
       "main": "Clouds",
-      "description": "few clouds",
-      "icon": "02d"
+      "description": "broken clouds",
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 31.85,
-    "feels_like": 36.73,
-    "temp_min": 31.85,
-    "temp_max": 31.85,
-    "pressure": 1013,
-    "humidity": 60,
-    "sea_level": 1013,
-    "grnd_level": 1013
+    "temp": 14.02,
+    "feels_like": 13.62,
+    "temp_min": 13.34,
+    "temp_max": 14.49,
+    "pressure": 1002,
+    "humidity": 82,
+    "sea_level": 1002,
+    "grnd_level": 998
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.1,
-    "deg": 177,
-    "gust": 1.54
+    "speed": 5.66,
+    "deg": 170
   },
   "clouds": {
-    "all": 23
+    "all": 75
   },
-  "dt": 1765275284,
+  "dt": 1765283067,
   "sys": {
-    "country": "NG",
-    "sunrise": 1765259101,
-    "sunset": 1765301400
+    "type": 2,
+    "id": 2075535,
+    "country": "GB",
+    "sunrise": 1765266848,
+    "sunset": 1765295514
   },
-  "timezone": 3600,
-  "id": 2332453,
-  "name": "Lagos",
+  "timezone": 0,
+  "id": 2643743,
+  "name": "London",
   "cod": 200,
-  "_last_updated_utc": "2025-12-09T10:24:17.064Z"
+  "_last_updated_utc": "2025-12-09T12:33:38.799Z"
 }
